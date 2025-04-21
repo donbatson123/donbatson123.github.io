@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+  }
+  
+  header {
+    background: #222;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .about, .projects {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5rem;
+  }
+  
+  .project-card {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fdfdfd;
+  }
+  
+  .project-card img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .buttons a {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: #007acc;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .buttons a:hover {
+    background: #005fa3;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #222;
+    color: #ccc;
+    margin-top: 2rem;
+  }
+  
